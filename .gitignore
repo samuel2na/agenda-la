@@ -1,0 +1,5 @@
+node_modules
+.next
+.env
+AnotacoesReact.txt
+AnotacoesPocs.txt
