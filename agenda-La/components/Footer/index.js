@@ -5,7 +5,13 @@ const Footer = () => {
       <p className='font-bold'>Agenda Lá</p>
       <p>Desenvolvedor responsável pelo projeto</p>
       <p>
-        <a href='https://www.linkedin.com/in/samuel2na/'> Linkedin Samuel </a>
+        <a
+          className='text-yellow-800 hover:text-blue-900'
+          href='https://www.linkedin.com/in/samuel2na/'
+        >
+          {' '}
+          Linkedin Samuel{' '}
+        </a>
       </p>
     </footer>
   );
